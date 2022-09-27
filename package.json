@@ -16,7 +16,7 @@
     "hexo": "^6.0.0",
     "hexo-butterfly-clock": "^1.0.7",
     "hexo-butterfly-douban": "^1.2.5",
-    "hexo-butterfly-envelope": "^1.0.12",
+    "hexo-butterfly-envelope": "^1.0.15",
     "hexo-deployer-git": "^3.0.0",
     "hexo-douban": "^1.1.3",
     "hexo-generator-archive": "^1.0.0",
